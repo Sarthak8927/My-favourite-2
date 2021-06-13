@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: linear-gradient( #90CAF9 0%,#1976D2 100%);
+    background-repeat:no-repeat; 
+  }
+  img {
+    border-radius:50% ;
+    width:100px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  #bio {
+    padding:20px;
+    font-size:18;
+    text-align:center;
+  }
+  .menu {
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;}
+    #writings {
+      height: 400px;
+      width: 400px;
+      shape-margin: 10%;
+    }
+  
